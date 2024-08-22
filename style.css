@@ -1,0 +1,68 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+div{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    text-align: center;
+    
+    border-radius: 9px;
+
+    height: 550px;
+    width: 350px;
+    background-color: hsl(0, 0%, 12%);
+
+    font-family: "Inter", sans-serif;
+    
+}
+.botao{
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    display: inline;
+    width: 280px;
+    height: 38px;
+    margin: 6px;
+    border: solid 1px hsl(0, 0%, 20%);
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.nome{
+    color: white;
+    margin-bottom: 5px;
+    font-size: 27px;
+}
+
+.local{
+    color: hsl(75, 94%, 57%);
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.descricao{
+    color: white;
+    font-size: 12px;
+    margin-bottom: 16px;
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.foto-perfil{
+    width: 90px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
