@@ -1,5 +1,5 @@
-#Perfil de Redes Sociais 😎
-##Meu primeiro projeto postado
+# Perfil de Redes Sociais 😎
+## Meu primeiro projeto postado
 
 Esse foi o meu primeiro projeto usando meus conhecimentos adquiridos recentemente. Foi um bom teste para enteder minhas habilidades em um dos desafios 
 do Frontend Mentor, mesmo que tenho sido um projeto simples.
